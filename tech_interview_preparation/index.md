@@ -25,9 +25,11 @@ Some questions to have in mind:
 Build the the foundation by learning the fundamental algorithms and data structures:
 
 - Fundamental Algorithms
-    - [ ] Sorting
-    - [ ] Binary Search
-    - [ ] ...
+    - [ ] Sorting: merge, quick, bucket, heap, counting
+    - [ ] Searching: Binary Search, Depth First Search, Breadth First Search
+    - [ ] Dynamic Programming
+    - [ ] String / Array: reverse
+    - [ ] Linked list: insertion, deletion
 - Fundamental Data Structures
     - [ ] Stack
     - [ ] Queue
@@ -46,3 +48,4 @@ Build the the foundation by learning the fundamental algorithms and data structu
 - [Google Interview Preparation](http://blog.gainlo.co/index.php/category/google-interview-preparation/)
 - [Know your complexities: Big-O cheat sheet](https://www.bigocheatsheet.com/)
 - [Data Structures and Algorithms cheat sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Top 10 algorithms in interview questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
