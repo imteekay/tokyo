@@ -1,16 +1,11 @@
-// push
 const push = (stack, item) => [item, ...stack];
 
-// pop
 const pop = (stack) => stack.slice(1);
 
-// peek
 const peek = (stack) => stack[0];
 
-// isEmpty
 const isEmpty = (stack) => !stack.length;
 
-// size
 const size = (stack) => stack.length;
 
 // testing
