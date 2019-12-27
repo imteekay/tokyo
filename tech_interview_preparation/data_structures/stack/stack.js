@@ -8,7 +8,7 @@ const pop = (stack) => stack.slice(1);
 const peek = (stack) => stack[0];
 
 // isEmpty
-const isEmpty = (stack) => stack[0] === undefined;
+const isEmpty = (stack) => !stack.length;
 
 // size
 const size = (stack) => stack.length;
