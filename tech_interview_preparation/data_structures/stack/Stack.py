@@ -6,6 +6,9 @@ class Stack:
         self.items.insert(0, item)
 
     def pop(self):
+        if self.is_empty():
+            return None
+
         return self.items.pop(0)
 
     def is_empty(self):
