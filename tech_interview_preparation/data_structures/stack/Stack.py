@@ -2,9 +2,13 @@
 
 # Push: O(1) - Constant Time
 # Pop (remove): O(1) - Constant Time
-# Peek (top): O(1) - Constant Time
+# top (top): O(1) - Constant Time
 # Is Empty: O(1) - Constant Time
 # Size: O(1) - Constant Time
+
+
+class Emptiness(Exception):
+    pass
 
 
 class Stack:
@@ -12,20 +16,22 @@ class Stack:
         self.items = []
 
     def push(self, item):
-        self.items.insert(0, item)
+        self.items.append(item)
 
     def pop(self):
         if self.is_empty():
-            return None
+            raise Emptiness('The Stack is empty')
 
-        return self.items.pop(0)
+        return self.items.pop()
 
     def is_empty(self):
         return self.size() == 0
 
-    def peek(self):
-        if not self.is_empty():
-            return self.items[0]
+    def top(self):
+        if self.is_empty():
+            raise Emptiness('The Stack is empty')
+
+        return self.items[-1]
 
     def size(self):
         return len(self.items)
@@ -47,7 +53,7 @@ stack.push(5)
 print(stack.items)
 
 print(stack.is_empty())
-print(stack.peek())
+print(stack.top())
 
 print(stack.pop())
 print(stack.pop())
@@ -59,4 +65,3 @@ print(stack.is_empty())
 print(stack.pop())
 
 print(stack.is_empty())
-print(stack.peek())
