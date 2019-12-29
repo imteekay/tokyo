@@ -17,7 +17,7 @@ class Stack {
     return poppedItem;
   }
 
-  peek() {
+  top() {
     return this.items[0];
   }
 
@@ -47,7 +47,7 @@ stack.push(5);
 console.log(stack.items);
 
 console.log(stack.isEmpty());
-console.log(stack.peek());
+console.log(stack.top());
 
 console.log(stack.pop());
 console.log(stack.pop());
@@ -59,4 +59,4 @@ console.log(stack.isEmpty());
 console.log(stack.pop());
 
 console.log(stack.isEmpty());
-console.log(stack.peek());
+console.log(stack.top());

@@ -3,14 +3,14 @@ const createStack = () => {
 
   const push = (item) => [item, ...items];
   const pop = () => items.slice(1);
-  const peek = () => items[0];
+  const top = () => items[0];
   const isEmpty = () => !items.length;
   const size = () => items.length;
 
   return {
     push,
     pop,
-    peek,
+    top,
     isEmpty,
     size
   };
@@ -32,7 +32,7 @@ console.log(stack.items);
 stack.push(5);
 console.log(stack.items);
 
-console.log(stack.peek());
+console.log(stack.top());
 console.log(stack.size());
 console.log(stack.isEmpty());
 
@@ -42,7 +42,7 @@ stack.pop();
 stack.pop();
 
 console.log(stack.isEmpty());
-console.log(stack.peek());
+console.log(stack.top());
 stack.pop();
 console.log(stack.isEmpty());
 console.log(stack.size());

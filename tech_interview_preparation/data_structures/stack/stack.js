@@ -2,7 +2,7 @@ const push = (stack, item) => [item, ...stack];
 
 const pop = (stack) => stack.slice(1);
 
-const peek = (stack) => stack[0];
+const top = (stack) => stack[0];
 
 const isEmpty = (stack) => !stack.length;
 
@@ -24,7 +24,7 @@ console.log(stack);
 stack = push(stack, 5);
 console.log(stack);
 
-console.log(peek(stack));
+console.log(top(stack));
 console.log(size(stack));
 console.log(isEmpty(stack));
 
@@ -34,7 +34,7 @@ stack = pop(stack);
 stack = pop(stack);
 
 console.log(isEmpty(stack));
-console.log(peek(stack));
+console.log(top(stack));
 stack = pop(stack);
 console.log(isEmpty(stack));
 console.log(size(stack));

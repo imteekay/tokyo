@@ -65,3 +65,32 @@ print(stack.is_empty())
 print(stack.pop())
 
 print(stack.is_empty())
+
+# reversing a list
+
+
+def reverse(bookshelf):
+    stack = Stack()
+
+    for book in bookshelf:
+        stack.push(book)
+
+    reversed_bookshelf = []
+
+    while not stack.is_empty():
+        reversed_bookshelf.append(stack.pop())
+
+    return reversed_bookshelf
+
+
+bookshelf = [
+    'Harry Potter',
+    'Atomic Habits',
+    'Leonardo da Vinci',
+    'Sapiens',
+    'Peak'
+]
+
+reversed_bookshelf = reverse(bookshelf)
+
+print(reversed_bookshelf)
