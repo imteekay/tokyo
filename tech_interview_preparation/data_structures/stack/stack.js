@@ -4,7 +4,7 @@ const pop = (stack) => stack.slice(1);
 
 const top = (stack) => stack[0];
 
-const isEmpty = (stack) => !stack.length;
+const isEmpty = (stack) => size(stack) === 0;
 
 const size = (stack) => stack.length;
 
