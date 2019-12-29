@@ -8,13 +8,7 @@ class Stack {
   }
 
   pop() {
-    if (this.isEmpty()) {
-      return;
-    }
-
-    const poppedItem = this.items[0];
     this.items = this.items.slice(1);
-    return poppedItem;
   }
 
   top() {
@@ -22,7 +16,7 @@ class Stack {
   }
 
   isEmpty() {
-    return this.items[0] === undefined;
+    return this.size() === 0;
   }
 
   size() {
@@ -49,14 +43,19 @@ console.log(stack.items);
 console.log(stack.isEmpty());
 console.log(stack.top());
 
-console.log(stack.pop());
-console.log(stack.pop());
-console.log(stack.pop());
-console.log(stack.pop());
+stack.pop();
+console.log(stack.items);
+stack.pop();
+console.log(stack.items);
+stack.pop();
+console.log(stack.items);
+stack.pop();
+console.log(stack.items);
 
 console.log(stack.isEmpty());
 
-console.log(stack.pop());
+stack.pop();
+console.log(stack.items);
 
 console.log(stack.isEmpty());
 console.log(stack.top());
