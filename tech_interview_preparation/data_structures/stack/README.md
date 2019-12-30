@@ -1,4 +1,4 @@
-# Stack
+# [Stack](https://github.com/leandrotk/tokyo/blob/master/tech_interview_preparation/data_structures/stack/Stack.py)
 
 The stack is a collection of items that follows the `last-in, first-out` concept.
 
