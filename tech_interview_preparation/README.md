@@ -31,7 +31,7 @@ Build the the foundation by learning the fundamental algorithms and data structu
     - [ ] String / Array: reverse
     - [ ] Linked list: insertion, deletion
 - Fundamental Data Structures
-    - [ ] Stack
+    - [ ] [Stack](https://github.com/leandrotk/tokyo/tree/master/tech_interview_preparation/data_structures/stack)
     - [ ] Queue
     - [ ] Linked List
     - [ ] Array
