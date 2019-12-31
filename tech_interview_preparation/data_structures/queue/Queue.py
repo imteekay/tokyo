@@ -23,7 +23,7 @@ class Queue:
         if self.is_empty():
             raise Emptiness('The Queue is empty')
 
-        return self.items.pop()
+        return self.items.pop(0)
 
     def is_empty(self):
         return self.size() == 0
