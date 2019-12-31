@@ -8,6 +8,10 @@
 # Size: O(1) - Constant Time
 
 
+class Emptiness(Exception):
+    pass
+
+
 class Queue:
     def __init__(self):
         self.items = []
@@ -16,19 +20,25 @@ class Queue:
         self.items.append(item)
 
     def dequeue(self):
-        if not self.is_empty():
-            return self.items.pop()
+        if self.is_empty():
+            raise Emptiness('The Stack is empty')
+
+        return self.items.pop()
 
     def is_empty(self):
         return self.size() == 0
 
     def front(self):
-        if not self.is_empty():
-            return self.items[0]
+        if self.is_empty():
+            raise Emptiness('The Stack is empty')
+
+        return self.items[0]
 
     def back(self):
-        if not self.is_empty():
-            return self.items[self.size() - 1]
+        if self.is_empty():
+            raise Emptiness('The Stack is empty')
+
+        return self.items[self.size() - 1]
 
     def size(self):
         return len(self.items)
@@ -84,6 +94,3 @@ queue.dequeue()
 
 test_emptiness(queue)
 test_size(queue)
-test_front(queue)
-test_back(queue)
-queue.dequeue()
