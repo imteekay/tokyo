@@ -21,7 +21,7 @@ class Queue:
 
     def dequeue(self):
         if self.is_empty():
-            raise Emptiness('The Stack is empty')
+            raise Emptiness('The Queue is empty')
 
         return self.items.pop()
 
@@ -30,18 +30,28 @@ class Queue:
 
     def front(self):
         if self.is_empty():
-            raise Emptiness('The Stack is empty')
+            raise Emptiness('The Queue is empty')
 
         return self.items[0]
 
     def back(self):
         if self.is_empty():
-            raise Emptiness('The Stack is empty')
+            raise Emptiness('The Queue is empty')
 
         return self.items[self.size() - 1]
 
     def size(self):
         return len(self.items)
+
+
+def test_enqueue(queue, item):
+    queue.enqueue(item)
+    print(queue.items)
+
+
+def test_dequeue(queue):
+    queue.dequeue()
+    print(queue.items)
 
 
 def test_emptiness(queue):
@@ -66,31 +76,31 @@ def test_back(queue):
 
 queue = Queue()
 
-test_emptiness(queue)
-test_size(queue)
+test_emptiness(queue)  # True
+test_size(queue)  # 0
 
-queue.enqueue(1)
-queue.enqueue(2)
-queue.enqueue(3)
-queue.enqueue(4)
-queue.enqueue(5)
+test_enqueue(queue, 1)  # [1]
+test_enqueue(queue, 2)  # [1, 2]
+test_enqueue(queue, 3)  # [1, 2, 3]
+test_enqueue(queue, 4)  # [1, 2, 3, 4]
+test_enqueue(queue, 5)  # [1, 2, 3, 4, 5]
 
-test_emptiness(queue)
-test_size(queue)
-test_front(queue)
-test_back(queue)
+test_emptiness(queue)  # False
+test_size(queue)  # 5
+test_front(queue)  # 1
+test_back(queue)  # 5
 
-queue.dequeue()
-queue.dequeue()
-queue.dequeue()
-queue.dequeue()
+test_dequeue(queue)  # [2, 3, 4, 5]
+test_dequeue(queue)  # [3, 4, 5]
+test_dequeue(queue)  # [4, 5]
+test_dequeue(queue)  # [5]
 
-test_emptiness(queue)
-test_size(queue)
-test_front(queue)
-test_back(queue)
+test_emptiness(queue)  # False
+test_size(queue)  # 1
+test_front(queue)  # 5
+test_back(queue)  # 5
 
-queue.dequeue()
+test_dequeue(queue)  # []
 
-test_emptiness(queue)
-test_size(queue)
+test_emptiness(queue)  # True
+test_size(queue)  # 0
