@@ -45,10 +45,32 @@ Build the the foundation by learning the fundamental algorithms and data structu
 
 ## Resources
 
+### Preparation
+
 - [Google Interview Preparation](http://blog.gainlo.co/index.php/category/google-interview-preparation/)
+- [The ultimate guide to preparing for the coding interview](https://medium.com/free-code-camp/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9)
+- [Taejun's preparation](https://qr.ae/TSJEJv)
+- [Recruiter's view](https://qr.ae/TSJE3x)
+
+### Interviewers' POV
+
+- [Brian Bi considerations](https://qr.ae/TSJE9l)
+- [knock a technical interview](https://qr.ae/TSJEkK)
+
+### Algorithms & Data Structures
+
 - [Know your complexities: Big-O cheat sheet](https://www.bigocheatsheet.com/)
 - [Data Structures and Algorithms cheat sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 - [Top 10 algorithms in interview questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-- [The ultimate guide to preparing for the coding interview](https://medium.com/free-code-camp/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9)
 - [Python Algorithms for Interviews](https://www.youtube.com/watch?v=p65AHm9MX80)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+- [InterviewBit algorithms course](https://www.interviewbit.com/courses/programming/)
+
+### System Design
+
+- [Preparing to System Design](https://qr.ae/TSJEwu)
+- [InterviewBit System Design course](https://www.interviewbit.com/courses/system-design/)
+
+### In the interview
+
+- [Green flags in a interview](https://qr.ae/TSJEQA)
