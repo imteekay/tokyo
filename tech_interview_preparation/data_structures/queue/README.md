@@ -220,3 +220,9 @@ Now about space and runtime complexities for each method implemented.
 The space is pretty simple. It's a list, so it's `O(n)` where `n` is the current number of items in the stack.
 
 The runtime for each method is `O(1)`, constant time.
+
+---
+
+## Resources
+
+[Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
