@@ -1,0 +1,222 @@
+We can create a `Queue` class as a wrapper and use the Python list to store the queue data. This class will have the implementation of the `enqueue`, `dequeue`, `size`, `front`, `back`, and `is_empty` methods.
+
+The first step is to create a class definition and how we are gone store our items.
+
+    class Queue:
+        def __init__(self):
+            self.items = []
+
+This is basically what we need for now. Just a class and its constructor. When the instance is created, it will have the `items` list to store the queue items.
+
+For the `enqueue` method, we just need to use the list `append` method to add new items. The new items will be placed in the last index of this `items` list. So the front item from the queue will always be the first item.
+
+```python
+def enqueue(self, item):
+    self.items.append(item)
+```
+
+It receives the new item and appends it to the list.
+
+The `size` method only counts the number of the queue items by using the `len` function.
+
+```python
+def size(self):
+    return len(self.items)
+```
+
+The idea of the `is_empty` method is to verify if the list has or not items in it. If it has, returns `False`. Otherwise, `True`. To count the number of items in the queue, we can simply use the `size` method already implemented.
+
+```python
+def is_empty(self):
+    return self.size() == 0
+```
+
+The `pop` method from the list data structure can also be used to dequeue the item from the queue. It dequeues the first element as it is expected for the queue. The first added item.
+
+```python
+def dequeue(self):
+    return self.items.pop(0)
+```
+
+But we need to handle the queue emptiness. For an empty list, the `pop` method raises an exception `IndexError: poop from empty list`. So we can create an exception class to handle this issue.
+
+```python
+class Emptiness(Exception):
+    pass
+```
+
+And uses it when the list is empty:
+
+```python
+def dequeue(self):
+    if self.is_empty():
+        raise Emptiness('The Queue is empty')
+
+    return self.items.dequeue()
+```
+
+If it is empty, we raise this exception. Otherwise, we can dequeue the front item from the queue.
+
+We use this same emptiness strategy for the `front` method:
+
+```python
+def front(self):
+    if self.is_empty():
+        raise Emptiness('The Queue is empty')
+
+    return self.items[0]
+```
+
+If it has at least one item, we get the front, the first added item in the queue.
+
+Also the same emptiness strategy for the `back` method:
+
+```python
+def back(self):
+    if self.is_empty():
+        raise Emptiness('The Queue is empty')
+
+    return self.items[-1]
+```
+
+If it has at least one item, we get the back item, the last added item in the queue.
+
+## Queue usage
+
+I created some helper functions to help test the queue usage.
+
+```python
+def test_enqueue(queue, item):
+    queue.enqueue(item)
+    print(queue.items)
+
+
+def test_dequeue(queue):
+    queue.dequeue()
+    print(queue.items)
+
+
+def test_emptiness(queue):
+    is_empty = queue.is_empty()
+    print(is_empty)
+
+
+def test_size(queue):
+    size = queue.size()
+    print(size)
+
+
+def test_front(queue):
+    front = queue.front()
+    print(front)
+
+
+def test_back(queue):
+    back = queue.back()
+    print(back)
+```
+
+They basically call a queue method and print the expected result from the method call.
+
+The usage will be something like:
+
+```python
+queue = Queue()
+
+test_emptiness(queue)  # True
+test_size(queue)  # 0
+
+test_enqueue(queue, 1)  # [1]
+test_enqueue(queue, 2)  # [1, 2]
+test_enqueue(queue, 3)  # [1, 2, 3]
+test_enqueue(queue, 4)  # [1, 2, 3, 4]
+test_enqueue(queue, 5)  # [1, 2, 3, 4, 5]
+
+test_emptiness(queue)  # False
+test_size(queue)  # 5
+test_front(queue)  # 1
+test_back(queue)  # 5
+
+test_dequeue(queue)  # [2, 3, 4, 5]
+test_dequeue(queue)  # [3, 4, 5]
+test_dequeue(queue)  # [4, 5]
+test_dequeue(queue)  # [5]
+
+test_emptiness(queue)  # False
+test_size(queue)  # 1
+test_front(queue)  # 5
+test_back(queue)  # 5
+
+test_dequeue(queue)  # []
+
+test_emptiness(queue)  # True
+test_size(queue)  # 0
+```
+
+We first instantiate a new queue from the `Queue` class.
+
+- So now we can verify its emptiness: yes, it is!
+- Verify size: 0.
+- Enqueue 5 new items to the queue: `[1, 2, 3, 4, 5]`.
+- Verify emptiness again: not anymore!
+- Verify size: 5.
+- Get the front element: 1 because it was the first added item.
+- Get the back element: 5 because it was the last added item.
+- Dequeue 4 items: 1, 2, 3, and 4.
+- Verify emptiness: it is not empty yet!
+- The size is 1 and the back and front are the same number: 5
+- Dequeue the remaining item.
+- Verify emptiness: it is empty now!
+- Size is back to 0.
+
+---
+
+## Another way of testing it
+
+Enqueue 5 new items:
+
+```python
+queue = Queue()
+queue.enqueue(1)
+queue.enqueue(2)
+queue.enqueue(3)
+queue.enqueue(4)
+queue.enqueue(5)
+```
+
+Loop through the items and print each one.
+
+```python
+for item in queue.items:
+    print(item)
+```
+
+Test front and back.
+
+```python
+test_front(queue) # 1
+test_back(queue) # 5
+```
+
+Dequeue all.
+
+```python
+while not queue.is_empty():
+    queue.dequeue()
+```
+
+Test size.
+
+```python
+test_size(queue) # 0
+```
+
+---
+
+## Runtime and Space complexities
+
+Now about space and runtime complexities for each method implemented.
+
+The space is pretty simple. It's a list, so it's `O(n)` where `n` is the current number of items in the stack.
+
+The runtime for each method is `O(1)`, constant time.
