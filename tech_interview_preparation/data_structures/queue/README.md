@@ -1,3 +1,13 @@
+# [Queue](https://github.com/leandrotk/tokyo/blob/master/tech_interview_preparation/data_structures/queue/Queue.py)
+
+The queue data structure is a collection of items that follow the `first-in, first out` principle. The first added element will be the first element to be removed from the queue. So, elements are added in the back and removed from the front.
+
+An analogy would be a simple line of people waiting for the next train. In the software engineering context, an example is a web server receiving and responding requests.
+
+The main API methods are `enqueue` (add) and `dequeue` (remove). But we can also add other methods as part of the API implementation: `size`, `front`, `back`, and `is_empty`.
+
+---
+
 We can create a `Queue` class as a wrapper and use the Python list to store the queue data. This class will have the implementation of the `enqueue`, `dequeue`, `size`, `front`, `back`, and `is_empty` methods.
 
 The first step is to create a class definition and how we are gone store our items.
