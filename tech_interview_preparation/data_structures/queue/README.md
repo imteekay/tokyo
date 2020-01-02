@@ -235,4 +235,7 @@ The runtime for each method is `O(1)`, constant time.
 
 ## Resources
 
-[Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
+- [Learning Python: From Zero to Hero](http://leandrotk.github.io/tk/2017/09/learning-python-from-zero-to-hero/index.html)
+- [One Month - Learn Python](https://mbsy.co/lG6tv)
+- [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275))
+- [Data Structures: Stacks and Queues](https://www.youtube.com/watch?v=wjI1WNcIntg&feature=youtu.be)
