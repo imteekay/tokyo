@@ -9,7 +9,7 @@ class LinkedList:
         self.head = None
 
     def append(self, value):
-        if self.head is None:
+        if self.is_empty():
             self.head = Node(value)
             return
 
@@ -26,7 +26,7 @@ class LinkedList:
         self.head.next = previous_head
 
     def remove(self, value):
-        if self.head is None:
+        if self.is_empty():
             return
 
         if self.head.value == value:
@@ -51,6 +51,9 @@ class LinkedList:
             current_node = current_node.next
 
         return found
+
+    def is_empty(self):
+        return self.head is None
 
 
 def print_all(linked_list):
