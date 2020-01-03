@@ -55,6 +55,16 @@ class LinkedList:
     def is_empty(self):
         return self.head is None
 
+    def size(self):
+        list_length = 0
+        current_node = self.head
+
+        while current_node is not None:
+            list_length += 1
+            current_node = current_node.next
+
+        return list_length
+
 
 def print_all(linked_list):
     print('All values:', end=' ')
@@ -72,13 +82,20 @@ def print_found(linked_list, value):
     print('For value:', value, '-->', 'Found:', found, )
 
 
+def print_size(linked_list):
+    list_length = linked_list.size()
+    print('Size:', list_length)
+
+
 linked_list = LinkedList()
 
 linked_list.remove(0)
 print_all(linked_list)
+print_size(linked_list)
 
 linked_list.append(1)
 print_all(linked_list)
+print_size(linked_list)
 
 linked_list.remove(0)
 linked_list.remove(1)
@@ -91,6 +108,7 @@ print_all(linked_list)
 print_found(linked_list, 1)
 print_found(linked_list, 2)
 print_found(linked_list, 3)
+print_size(linked_list)
 
 linked_list.remove(1)
 print_all(linked_list)
