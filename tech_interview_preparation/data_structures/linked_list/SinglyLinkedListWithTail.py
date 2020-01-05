@@ -42,7 +42,14 @@ class SinglyLinkedList:
             current_node = current_node.next
 
     def search(self, value):
-        pass
+        found = False
+        current_node = self.head
+
+        while not found and current_node is not None:
+            found = current_node.value == value
+            current_node = current_node.next
+
+        return found
 
     def is_empty(self):
         return self.head is None
@@ -116,3 +123,6 @@ linked_list.prepend(2)
 linked_list.prepend(1)
 print_all(linked_list)  # 1 2 3
 print_size(linked_list)  # 3
+print_found(linked_list, 1)  # True
+print_found(linked_list, 2)  # True
+print_found(linked_list, 3)  # True
