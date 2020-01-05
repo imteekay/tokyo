@@ -22,7 +22,18 @@ class CircularLinkedList:
         current_node.next = Node(value, self.head)
 
     def prepend(self, value):
-        pass
+        if self.is_empty():
+            self.head = Node(value)
+            self.head.next = self.head
+            return
+
+        current_node = self.head
+
+        while current_node.next is not self.head:
+            current_node = current_node.next
+
+        self.head = Node(value, self.head)
+        current_node.next = self.head
 
     def remove(self, value):
         pass
