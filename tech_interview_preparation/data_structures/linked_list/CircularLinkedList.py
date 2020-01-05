@@ -34,7 +34,18 @@ class CircularLinkedList:
         pass
 
     def size(self):
-        pass
+        list_length = 0
+
+        if self.is_empty():
+            return list_length
+
+        current_node = self.head
+
+        while current_node.next is not self.head:
+            list_length += 1
+            current_node = current_node.next
+
+        return list_length + 1
 
 
 def print_all(linked_list):
@@ -49,8 +60,28 @@ def print_all(linked_list):
     print()
 
 
+def print_found(linked_list, value):
+    found = linked_list.search(value)
+    print('For value:', value, '-->', 'Found:', found, )
+
+
+def print_size(linked_list):
+    list_length = linked_list.size()
+    print('Size:', list_length)
+
+
 linked_list = CircularLinkedList()
 linked_list.append(1)
 linked_list.append(2)
 linked_list.append(3)
 print_all(linked_list)
+print_size(linked_list)
+print_found(linked_list, 0)  # False
+print_found(linked_list, 1)  # True
+print_found(linked_list, 2)  # True
+print_found(linked_list, 3)  # True
+print_found(linked_list, 4)  # False
+linked_list.prepend(0)
+linked_list.prepend(-1)
+print_all(linked_list)
+print_size(linked_list)
