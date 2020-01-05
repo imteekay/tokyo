@@ -42,7 +42,20 @@ class CircularLinkedList:
         return self.head is None
 
     def search(self, value):
-        pass
+        if self.is_empty():
+            return False
+
+        if self.head.value == value:
+            return True
+
+        found = False
+        current_node = self.head
+
+        while not found and current_node.next is not self.head:
+            found = current_node.next.value == value
+            current_node = current_node.next
+
+        return found
 
     def size(self):
         list_length = 0
