@@ -116,3 +116,8 @@ linked_list.remove(2)
 print_all(linked_list)
 linked_list.remove(3)
 print_all(linked_list)
+
+linked_list.prepend(3)
+linked_list.prepend(2)
+linked_list.prepend(1)
+print_all(linked_list)
