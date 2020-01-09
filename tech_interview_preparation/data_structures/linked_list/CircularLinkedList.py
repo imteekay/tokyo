@@ -36,7 +36,30 @@ class CircularLinkedList:
         current_node.next = self.head
 
     def remove(self, value):
-        pass
+        if self.is_empty():
+            return
+
+        if self.head.value == value:
+            if self.head == self.head.next:
+                self.head = None
+                return
+
+            current_node = self.head
+
+            while current_node.next is not self.head:
+                current_node = current_node.next
+
+            self.head = self.head.next
+            current_node.next = self.head
+
+        current_node = self.head
+
+        while current_node.next is not self.head:
+            if current_node.next.value == value:
+                current_node.next = current_node.next.next
+                return
+
+            current_node = current_node.next
 
     def is_empty(self):
         return self.head is None
@@ -73,6 +96,10 @@ class CircularLinkedList:
 
 
 def print_all(linked_list):
+    if linked_list.is_empty():
+        print('Empty!')
+        return
+
     print('All values:', end=' ')
     current_node = linked_list.head
 
@@ -98,14 +125,33 @@ linked_list = CircularLinkedList()
 linked_list.append(1)
 linked_list.append(2)
 linked_list.append(3)
-print_all(linked_list)
-print_size(linked_list)
+print_all(linked_list)  # 1 2 3
+print_size(linked_list)  # 3
 print_found(linked_list, 0)  # False
 print_found(linked_list, 1)  # True
 print_found(linked_list, 2)  # True
 print_found(linked_list, 3)  # True
 print_found(linked_list, 4)  # False
+
 linked_list.prepend(0)
 linked_list.prepend(-1)
-print_all(linked_list)
-print_size(linked_list)
+
+print_all(linked_list)  # -1 0 1 2 3
+print_size(linked_list)  # 5
+
+linked_list.remove(-1)
+print_all(linked_list)  # 0 1 2 3
+
+linked_list.remove(0)
+print_all(linked_list)  # 1 2 3
+
+linked_list.remove(1)
+print_all(linked_list)  # 2 3
+
+linked_list.remove(2)
+print_all(linked_list)  # 3
+
+linked_list.remove(3)
+
+print_all(linked_list)  # empty
+print_size(linked_list)  # 0
