@@ -19,7 +19,7 @@ class DoublyLinkedList:
         while current_node.next is not None:
             current_node = current_node.next
 
-        current_node.next = Node(value)
+        current_node.next = Node(value, None, current_node)
 
     def prepend(self, value):
         if self.is_empty():
