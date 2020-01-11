@@ -34,7 +34,6 @@ Build the the foundation by learning the fundamental algorithms and data structu
     - [ ] [Stack](https://github.com/leandrotk/tokyo/tree/master/tech_interview_preparation/data_structures/stack)
     - [ ] Queue
     - [ ] Linked List
-    - [ ] Array
     - [ ] Hash Map
     - [ ] Graph
     - [ ] Tree
