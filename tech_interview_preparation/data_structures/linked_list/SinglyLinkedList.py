@@ -1,7 +1,7 @@
 class Node:
-    def __init__(self, value):
+    def __init__(self, value, next=None):
         self.value = value
-        self.next = None
+        self.next = next
 
 
 class LinkedList:
@@ -22,8 +22,7 @@ class LinkedList:
 
     def prepend(self, value):
         previous_head = self.head
-        self.head = Node(value)
-        self.head.next = previous_head
+        self.head = Node(value, previous_head)
 
     def remove(self, value):
         if self.is_empty():
