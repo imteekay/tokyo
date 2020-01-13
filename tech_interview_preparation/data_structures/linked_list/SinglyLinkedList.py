@@ -4,7 +4,7 @@ class Node:
         self.next = next
 
 
-class LinkedList:
+class SinglyLinkedList:
     def __init__(self):
         self.head = None
 
@@ -86,7 +86,7 @@ def print_size(linked_list):
     print('Size:', list_length)
 
 
-linked_list = LinkedList()
+linked_list = SinglyLinkedList()
 
 linked_list.remove(0)
 print_all(linked_list)
