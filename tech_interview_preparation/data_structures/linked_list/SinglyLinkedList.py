@@ -21,8 +21,7 @@ class SinglyLinkedList:
         current_node.next = Node(value)
 
     def prepend(self, value):
-        previous_head = self.head
-        self.head = Node(value, previous_head)
+        self.head = Node(value, self.head)
 
     def remove(self, value):
         if self.is_empty():
