@@ -34,7 +34,7 @@ class SinglyLinkedList:
         current_node = self.head
 
         while current_node.next is not None:
-            if current_node.value == value:
+            if current_node.next.value == value:
                 current_node.next = current_node.next.next
                 return
 
@@ -96,6 +96,7 @@ print_all(linked_list)  # 1
 print_size(linked_list)  # 1
 
 linked_list.remove(0)
+print_all(linked_list)
 linked_list.remove(1)
 print_all(linked_list)
 
@@ -115,7 +116,11 @@ print_all(linked_list)  # 3
 linked_list.remove(3)
 print_all(linked_list)
 
+linked_list.prepend(4)
 linked_list.prepend(3)
 linked_list.prepend(2)
 linked_list.prepend(1)
-print_all(linked_list)  # 1 2 3
+print_all(linked_list)  # 1 2 3 4
+
+linked_list.remove(3)
+print_all(linked_list)  # 1 2 4
