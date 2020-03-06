@@ -28,7 +28,7 @@
 
 ## Visa
 
-
+- [Highly-Skilled Foreign Professional visa](https://resources.realestate.co.jp/living/highly-skilled-foreign-professional-visa-for-japan-how-and-why-to-apply/)
 
 ## Internet
 
