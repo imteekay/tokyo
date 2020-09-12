@@ -31,12 +31,12 @@ Build the the foundation by learning the fundamental algorithms and data structu
     - [ ] String / Array: reverse
     - [ ] Linked list: insertion, deletion
 - Fundamental Data Structures
-    - [ ] [Stack](https://github.com/leandrotk/tokyo/tree/master/tech_interview_preparation/data_structures/stack)
-    - [ ] Queue
-    - [ ] Linked List
-    - [ ] Hash Map
-    - [ ] Graph
-    - [ ] Tree
+    - [X] [Stack](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/stack)
+    - [X] [Queue](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/queue)
+    - [X] [Linked List](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/linked_list)
+    - [X] [Hash Map](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/hash_table)
+    - [X] [Graph](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/graph)
+    - [X] [Tree](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/binary_search_tree)
 - Complexity
     - [ ] Space complexity for all algorithms / data structures
     - [ ] Runtime complexity for all algorithms / data structures
