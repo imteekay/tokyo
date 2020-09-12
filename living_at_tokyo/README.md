@@ -43,6 +43,10 @@
 
 - [My guide to mastering the Tokyo metropolis](https://www.facebook.com/notes/dan-castellano/my-guide-to-mastering-the-tokyo-metropolis/10156466320841288/) [post]
 
+## Transportation
+
+- [Cartão Pré-Pago no Japão, Pasmo, Manaca, Suica](https://www.youtube.com/watch?v=wU43rUbHwMs&ab_channel=ViajeSemPerrengues)
+
 ## Resources
 
 - [Let's Explore Tokyo Podcast](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/)
