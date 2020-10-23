@@ -5,6 +5,7 @@
 - [Japanese Quality of Life: My Family's Experience in Tokyo](https://www.youtube.com/watch?v=oqh2F9Xeqx8) [video]
 - [Let's explore Tokyo trains](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/let-s-explore-tokyo-trains/) [podcast]
 - [7 Random Tips for Living in Tokyo](https://tokyo-podcast.com/2019/01/27/random-tips-for-living-in-tokyo/) [podcast]
+- [Cost of living in Tokyo](https://www.youtube.com/watch?v=GbrLob9YUPE&ab_channel=costoflivingin)
 
 ## Moving
 
