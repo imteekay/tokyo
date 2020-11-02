@@ -6,6 +6,7 @@
 - [Let's explore Tokyo trains](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/let-s-explore-tokyo-trains/) [podcast]
 - [7 Random Tips for Living in Tokyo](https://tokyo-podcast.com/2019/01/27/random-tips-for-living-in-tokyo/) [podcast]
 - [Cost of living in Tokyo](https://www.youtube.com/watch?v=GbrLob9YUPE&ab_channel=costoflivingin)
+- [Living in Japan](https://www.youtube.com/watch?v=DO58nQzU4Lc&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113&ab_channel=Hey%2CJu%21Listen%21)
 
 ## Moving
 
