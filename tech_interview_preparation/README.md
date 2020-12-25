@@ -73,3 +73,7 @@ Build the the foundation by learning the fundamental algorithms and data structu
 ### In the interview
 
 - [Green flags in a interview](https://qr.ae/TSJEQA)
+
+### Finding a job in Japan
+
+- [How I Found A Software Development Job in Japan Without Experience and Without Speaking Japanese](https://medium.com/curious/how-i-found-a-software-development-job-in-japan-without-experience-and-without-speaking-japanese-5ff8698e33d9)
