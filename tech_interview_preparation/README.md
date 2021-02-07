@@ -73,6 +73,7 @@ Build the the foundation by learning the fundamental algorithms and data structu
 ### In the interview
 
 - [Green flags in a interview](https://qr.ae/TSJEQA)
+- [Mercari's culture](https://engineering.mercari.com/en/culture/)
 
 ### Finding a job in Japan
 
