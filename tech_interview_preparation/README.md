@@ -5,13 +5,13 @@
 ### [Before the interview](http://blog.gainlo.co/index.php/2017/02/18/chapter-1-get-interview-google-complete-guide-google-interview-preparation/)
 
 - Referral Is The Core
-    - Talk to some friends at this Tech companies
+  - Talk to some friends at this Tech companies
 - Resume
-    - Concise and easy to understand
-    - Single page
-    - Balance between details and simplicity
-    - Clear to anyone without relevant background and at the same time give people some ideas about the complexity
-    - Review and feedback
+  - Concise and easy to understand
+  - Single page
+  - Balance between details and simplicity
+  - Clear to anyone without relevant background and at the same time give people some ideas about the complexity
+  - Review and feedback
 
 ### [Build a Solid Foundation](http://blog.gainlo.co/index.php/2017/02/24/chapter-2-build-solid-foundation-complete-guide-google-interview-preparation/)
 
@@ -25,22 +25,22 @@ Some questions to have in mind:
 Build the the foundation by learning the fundamental algorithms and data structures:
 
 - Fundamental Algorithms
-    - [ ] Sorting: merge, quick, bucket, heap, counting
-    - [ ] Searching: Binary Search, Depth First Search, Breadth First Search
-    - [ ] Dynamic Programming
-    - [ ] String / Array: reverse
-    - [ ] Linked list: insertion, deletion
+  - [ ] Sorting: merge, quick, bucket, heap, counting
+  - [ ] Searching: Binary Search, Depth First Search, Breadth First Search
+  - [ ] Dynamic Programming
+  - [ ] String / Array: reverse
+  - [ ] Linked list: insertion, deletion
 - Fundamental Data Structures
-    - [X] [Stack](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/stack)
-    - [X] [Queue](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/queue)
-    - [X] [Linked List](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/linked_list)
-    - [X] [Hash Map](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/hash_table)
-    - [X] [Graph](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/graph)
-    - [X] [Tree](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/binary_search_tree)
+  - [X] [Stack](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/stack)
+  - [X] [Queue](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/queue)
+  - [X] [Linked List](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/linked_list)
+  - [X] [Hash Map](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/hash_table)
+  - [X] [Graph](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/graph)
+  - [X] [Tree](https://github.com/leandrotk/algorithms/tree/master/computer_science/data_structures/binary_search_tree)
 - Complexity
-    - [ ] Space complexity for all algorithms / data structures
-    - [ ] Runtime complexity for all algorithms / data structures
-    - [ ] Make comparisons between algorithms and data structures
+  - [ ] Space complexity for all algorithms / data structures
+  - [ ] Runtime complexity for all algorithms / data structures
+  - [ ] Make comparisons between algorithms and data structures
 
 ## Resources
 
