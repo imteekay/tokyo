@@ -64,11 +64,15 @@ Build the the foundation by learning the fundamental algorithms and data structu
 - [Python Algorithms for Interviews](https://www.youtube.com/watch?v=p65AHm9MX80)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 - [InterviewBit algorithms course](https://www.interviewbit.com/courses/programming/)
+- [Programming Interview Questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
 
 ### System Design
 
 - [Preparing to System Design](https://qr.ae/TSJEwu)
 - [InterviewBit System Design course](https://www.interviewbit.com/courses/system-design/)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [The System Design Process](https://www.hiredintech.com/classrooms/system-design/lesson/55)
+- [High Scalability](http://highscalability.com/)
 
 ### In the interview
 
