@@ -50,6 +50,7 @@ Build the the foundation by learning the fundamental algorithms and data structu
 - [The ultimate guide to preparing for the coding interview](https://medium.com/free-code-camp/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9)
 - [Taejun's preparation](https://qr.ae/TSJEJv)
 - [Recruiter's view](https://qr.ae/TSJE3x)
+- [Prep by elliotbot](https://old.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/)
 
 ### Interviewers' POV
 
