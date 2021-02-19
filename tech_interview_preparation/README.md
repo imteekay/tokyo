@@ -67,6 +67,7 @@ Space-time trade-off! That is, for better time complexity, try using auxiliary d
 - [Google devtip: Software Engineering Principles](https://techdevguide.withgoogle.com/paths/principles/)
 - [Google devtip: DS & Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [Google devtip: Interview Prep](https://techdevguide.withgoogle.com/paths/interview/)
+- [Software Engineer interview preparation](https://www.mauriciopoppe.com/notes/misc/software-engineer-interview-preparation/)
 
 ### Interviewers' POV
 
