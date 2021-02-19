@@ -1,8 +1,6 @@
-# Interview Traning
+# Tech Interview Preparation
 
-## Tech Interview Preparation
-
-### Before the interview
+## Before the interview
 
 - Referral Is The Core
   - Talk to some friends at this Tech companies
@@ -13,7 +11,7 @@
   - Clear to anyone without relevant background and at the same time give people some ideas about the complexity
   - Review and feedback
 
-### Build a Solid Foundation
+## Build a Solid Foundation
 
 Some questions to have in mind:
 
