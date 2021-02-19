@@ -75,6 +75,10 @@ Space-time trade-off! That is, for better time complexity, try using auxiliary d
 - [Brian Bi considerations](https://qr.ae/TSJE9l)
 - [knock a technical interview](https://qr.ae/TSJEkK)
 
+### Big O Notation
+
+- [Big O Notation w/ Gayle](https://www.youtube.com/watch?v=v4cd1O4zkGw&ab_channel=HackerRank)
+
 ### Algorithms & Data Structures
 
 - [Know your complexities: Big-O cheat sheet](https://www.bigocheatsheet.com/)
