@@ -68,6 +68,7 @@ Space-time trade-off! That is, for better time complexity, try using auxiliary d
 - [Google devtip: DS & Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [Google devtip: Interview Prep](https://techdevguide.withgoogle.com/paths/interview/)
 - [Software Engineer interview preparation](https://www.mauriciopoppe.com/notes/misc/software-engineer-interview-preparation/)
+- [Algorithm Template](https://docs.google.com/document/d/1TKNUaBdgzEoPaD8LNexz9JlquRKc1ZSBnNJuZmhFp4Y/edit)
 
 ### Interviewers' POV
 
@@ -87,6 +88,7 @@ Space-time trade-off! That is, for better time complexity, try using auxiliary d
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 - [InterviewBit algorithms course](https://www.interviewbit.com/courses/programming/)
 - [Programming Interview Questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
+- [Useful links about algorithms](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-Leetcode)
 
 ### System Design
 
@@ -95,6 +97,7 @@ Space-time trade-off! That is, for better time complexity, try using auxiliary d
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [The System Design Process](https://www.hiredintech.com/classrooms/system-design/lesson/55)
 - [High Scalability](http://highscalability.com/)
+- [System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 
 ### In the interview
 
@@ -104,3 +107,7 @@ Space-time trade-off! That is, for better time complexity, try using auxiliary d
 ### Finding a job in Japan
 
 - [How I Found A Software Development Job in Japan Without Experience and Without Speaking Japanese](https://medium.com/curious/how-i-found-a-software-development-job-in-japan-without-experience-and-without-speaking-japanese-5ff8698e33d9)
+
+### Platforms to learn
+
+- [Binary Search](https://binarysearch.com/)
