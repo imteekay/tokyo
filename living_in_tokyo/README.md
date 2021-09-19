@@ -59,3 +59,4 @@
 - [Tokyo Podcast](https://tokyo-podcast.com/)
 - [Hacking Tokyo](https://hackingtokyo.com/)
 - [Tokyo Adventures Podcast](https://www.tokyoadventures.com/podcast)
+- [Japan by Food](https://www.youtube.com/c/JapanbyFood)
