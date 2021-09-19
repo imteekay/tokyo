@@ -58,4 +58,4 @@
 - [The Live Work Play Japan Podcast](https://www.liveworkplayjapan.com/podcast/)
 - [Tokyo Podcast](https://tokyo-podcast.com/)
 - [Hacking Tokyo](https://hackingtokyo.com/)
-- [Tokyo Adventures](https://www.tokyoadventures.com/podcast)
+- [Tokyo Adventures Podcast](https://www.tokyoadventures.com/podcast)
