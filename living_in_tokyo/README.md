@@ -24,7 +24,8 @@
 - [Moving house in Japan](https://anchor.fm/tokyolens/episodes/Moving-Houses-in-Japan-e3inia) [podcast]
 - [Getting a Great Apartment in Japan](https://www.liveworkplayjapan.com/getting-a-great-apartment-in-japan/) [podcast]
 - [How to Rent an Apartment in Tokyo with Adam German](https://tokyo-podcast.com/2012/10/21/renting-an-apartment-in-tokyo/) [podcast]
-- [Quanto Custa Morar no Japão?](https://www.youtube.com/watch?v=J1NEXeOposI&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113) (:brazil:)
+- [Quanto Custa Morar no Japão?](https://www.youtube.com/watch?v=J1NEXeOposI&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113) (:brazil:) [video]
+- [Getting an Apartment](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/eotchn) [podcast]
 
 ## Visa
 
