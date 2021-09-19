@@ -1,4 +1,4 @@
-# Living at Tokyo
+# Living in Tokyo
 
 ## How's life in Japan
 
