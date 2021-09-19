@@ -30,6 +30,7 @@
 - [Getting an Apartment](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/eotchn) [podcast]
 - [How To Rent An Apartment In Tokyo](https://tokyo-podcast.com/renting-an-apartment-in-tokyo/) [podcast]
 - [On Renting An Apartment In Tokyo](https://tokyo-podcast.com/renting-apartment-tokyo/) [podcast]
+- [Finding apartments in Japan for foreigners](https://japan-dev.com/blog/finding-apartments-in-japan-for-foreigners)
 
 ## Visa
 
