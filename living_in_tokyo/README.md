@@ -16,11 +16,7 @@
 
 ## Banking
 
-
-
 ## Hospital
-
-
 
 ## Housing
 
@@ -36,12 +32,9 @@
 
 ## Internet
 
-
-
 ## Work & Studies
 
 - [How To Study Japanese in Japan](https://tokyo-podcast.com/2019/01/29/how-to-study-japanese-in-japan/) [podcast]
-
 
 ## Places to Eat & Drink
 
