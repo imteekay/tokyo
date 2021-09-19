@@ -8,6 +8,7 @@
 - [Cost of living in Tokyo](https://www.youtube.com/watch?v=GbrLob9YUPE&ab_channel=costoflivingin)
 - [Living in Japan](https://www.youtube.com/watch?v=DO58nQzU4Lc&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113&ab_channel=Hey%2CJu%21Listen%21)
 - [The Cost of living in japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/epho58) [podcast]
+- [What Is the Real Cost of Living in Tokyo?](https://japan-dev.com/blog/what_is_the_real_cost_of_living_in_tokyo)
 
 ## Moving
 
