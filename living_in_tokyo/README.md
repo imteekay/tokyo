@@ -41,6 +41,7 @@
 ## Work & Studies
 
 - [How To Study Japanese in Japan](https://tokyo-podcast.com/2019/01/29/how-to-study-japanese-in-japan/) [podcast]
+- [Getting a Job In Japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/eli1hb) [podcast]
 
 ## Places to Eat & Drink
 
