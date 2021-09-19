@@ -35,6 +35,8 @@
 
 - [Highly-Skilled Foreign Professional visa](https://resources.realestate.co.jp/living/highly-skilled-foreign-professional-visa-for-japan-how-and-why-to-apply/)
 - [How to apply for Permanent Residency of Japan](https://paipo-tang.medium.com/how-to-apply-for-permanent-residency-of-japan-89f850bff7b5)
+- [Visas for Software Engineers in Japan](https://www.tokyodev.com/2020/03/02/japanese-engineering-visa-options/)
+- [Getting a Visa as an Engineer in Japan](https://japan-dev.com/blog/getting-a-visa-as-an-engineer-in-japan)
 
 ## Internet
 
