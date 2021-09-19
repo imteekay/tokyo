@@ -66,3 +66,5 @@
 - [Hacking Tokyo](https://hackingtokyo.com/)
 - [Tokyo Adventures Podcast](https://www.tokyoadventures.com/podcast)
 - [Japan by Food](https://www.youtube.com/c/JapanbyFood)
+- [JapanDev](https://japan-dev.com/)
+- [TokyoDev](tokyodev.com)
