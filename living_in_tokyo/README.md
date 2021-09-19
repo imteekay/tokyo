@@ -46,6 +46,7 @@
 
 - [How To Study Japanese in Japan](https://tokyo-podcast.com/2019/01/29/how-to-study-japanese-in-japan/) [podcast]
 - [Getting a Job In Japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/eli1hb) [podcast]
+- [Software Developer Salaries in Japan: The Ultimate Guide](https://japan-dev.com/blog/software-developer-salaries-in-japan-the-ultimate-guide)
 
 ## Places to Eat & Drink
 
