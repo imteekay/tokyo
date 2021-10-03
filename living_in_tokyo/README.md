@@ -10,6 +10,7 @@
 - [The Cost of living in japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/epho58) [podcast]
 - [What Is the Real Cost of Living in Tokyo?](https://japan-dev.com/blog/what_is_the_real_cost_of_living_in_tokyo)
 - [Things I Wish I Knew Before Moving to Japan](https://www.youtube.com/watch?v=t1hXoP17FGI&ab_channel=ChikaAliceinJapan)
+- [Living in Japan](https://www.reddit.com/r/japanlife/wiki/index#wiki_living_in_japan)
 
 ## Moving
 
