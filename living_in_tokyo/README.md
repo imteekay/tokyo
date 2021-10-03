@@ -71,3 +71,4 @@
 - [Japan by Food](https://www.youtube.com/c/JapanbyFood)
 - [JapanDev](https://japan-dev.com/)
 - [TokyoDev](tokyodev.com)
+- [Japan Life](https://www.reddit.com/r/japanlife/wiki/index)
