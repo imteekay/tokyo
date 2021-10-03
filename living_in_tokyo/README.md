@@ -17,6 +17,7 @@
 - [Moving to Japan](https://tokyo-podcast.com/how-to-move-to-japan/) [podcast]
 - [apts.jp](https://apts.jp/) [agency website]
 - [The Process of Moving to japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/e11vi6f)
+- [Moving to Japan](https://www.reddit.com/r/japanlife/wiki/moving_in)
 
 ## Banking
 
