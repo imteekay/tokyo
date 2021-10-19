@@ -27,19 +27,26 @@
 
 ## Banking
 
+WIP
+
 ## Hospital
+
+WIP
 
 ## Housing
 
-- [3 moving tips](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/3-moving-to-japan-tips/) [podcast]
-- [Moving house in Japan](https://anchor.fm/tokyolens/episodes/Moving-Houses-in-Japan-e3inia) [podcast]
-- [Getting a Great Apartment in Japan](https://www.liveworkplayjapan.com/getting-a-great-apartment-in-japan/) [podcast]
-- [How to Rent an Apartment in Tokyo with Adam German](https://tokyo-podcast.com/2012/10/21/renting-an-apartment-in-tokyo/) [podcast]
-- [Quanto Custa Morar no Japão?](https://www.youtube.com/watch?v=J1NEXeOposI&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113) (:brazil:) [video]
-- [Getting an Apartment](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/eotchn) [podcast]
-- [How To Rent An Apartment In Tokyo](https://tokyo-podcast.com/renting-an-apartment-in-tokyo/) [podcast]
-- [On Renting An Apartment In Tokyo](https://tokyo-podcast.com/renting-apartment-tokyo/) [podcast]
-- [Finding apartments in Japan for foreigners](https://japan-dev.com/blog/finding-apartments-in-japan-for-foreigners)
+| Title                                                                                                                     | Type | Language |
+| ------------------------------------------------------------------------------------------------------------------------- | ---- | -------- |
+| [3 moving tips](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/3-moving-to-japan-tips/)                       | 🎧   | 🇬🇧       |
+| [Moving house in Japan](https://anchor.fm/tokyolens/episodes/Moving-Houses-in-Japan-e3inia)                               | 🎧   | 🇬🇧       |
+| [Moving to Japan](https://tokyo-podcast.com/how-to-move-to-japan/)                                                        | 🎧   | 🇬🇧       |
+| [Getting a Great Apartment in Japan](https://www.liveworkplayjapan.com/getting-a-great-apartment-in-japan)                | 🎧   | 🇬🇧       |
+| [How to Rent an Apartment in Tokyo with Adam German](https://tokyo-podcast.com/2012/10/21/renting-an-apartment-in-tokyo/) | 🎧   | 🇬🇧       |
+| [Quanto Custa Morar no Japão?](https://www.youtube.com/watch?v=J1NEXeOposI&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113)       | 🎥   | 🇧🇷       |
+| [Finding apartments in Japan for foreigners](https://japan-dev.com/blog/finding-apartments-in-japan-for-foreigners)       | 📝   | 🇬🇧       |
+| [Getting an Apartment](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/eotchn)                   | 🎧   | 🇬🇧       |
+| [How To Rent An Apartment In Tokyo](https://tokyo-podcast.com/renting-an-apartment-in-tokyo/)                             | 🎥   | 🇬🇧       |
+| [On Renting An Apartment In Tokyo](https://tokyo-podcast.com/renting-apartment-tokyo/)                                    | 🎥   | 🇬🇧       |
 
 ## Visa
 
