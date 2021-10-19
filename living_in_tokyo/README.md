@@ -2,15 +2,17 @@
 
 ## How's life in Japan
 
-- [Japanese Quality of Life: My Family's Experience in Tokyo](https://www.youtube.com/watch?v=oqh2F9Xeqx8) [video]
-- [Let's explore Tokyo trains](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/let-s-explore-tokyo-trains/) [podcast]
-- [7 Random Tips for Living in Tokyo](https://tokyo-podcast.com/2019/01/27/random-tips-for-living-in-tokyo/) [podcast]
-- [Cost of living in Tokyo](https://www.youtube.com/watch?v=GbrLob9YUPE&ab_channel=costoflivingin)
-- [Living in Japan](https://www.youtube.com/watch?v=DO58nQzU4Lc&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113&ab_channel=Hey%2CJu%21Listen%21)
-- [The Cost of living in japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/epho58) [podcast]
-- [What Is the Real Cost of Living in Tokyo?](https://japan-dev.com/blog/what_is_the_real_cost_of_living_in_tokyo)
-- [Things I Wish I Knew Before Moving to Japan](https://www.youtube.com/watch?v=t1hXoP17FGI&ab_channel=ChikaAliceinJapan)
-- [Living in Japan](https://www.reddit.com/r/japanlife/wiki/index#wiki_living_in_japan)
+| Title                                                                                                                                  | Type | Language |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------- |
+| [Japanese Quality of Life: My Family's Experience in Tokyo](https://www.youtube.com/watch?v=oqh2F9Xeqx8)                               | 🎥   | 🇬🇧       |
+| [Let's explore Tokyo trains](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/let-s-explore-tokyo-trains/)                   | 🎧   | 🇬🇧       |
+| [7 Random Tips for Living in Tokyo](https://tokyo-podcast.com/2019/01/27/random-tips-for-living-in-tokyo/)                             | 🎧   | 🇬🇧       |
+| [Cost of living in Tokyo](https://www.youtube.com/watch?v=GbrLob9YUPE&ab_channel=costoflivingin)                                       | 🎥   | 🇬🇧       |
+| [Living in Japan](https://www.youtube.com/watch?v=DO58nQzU4Lc&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113&ab_channel=Hey%2CJu%21Listen%21) | 🎥   | 🇬🇧       |
+| [The Cost of living in japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/epho58)                         | 🎧   | 🇬🇧       |
+| [What Is the Real Cost of Living in Tokyo?](https://japan-dev.com/blog/what_is_the_real_cost_of_living_in_tokyo)                       | 📝   | 🇬🇧       |
+| [Things I Wish I Knew Before Moving to Japan](https://www.youtube.com/watch?v=t1hXoP17FGI)                                             | 🎥   | 🇬🇧       |
+| [Living in Japan](https://www.reddit.com/r/japanlife/wiki/index#wiki_living_in_japan)                                                  | 📝   | 🇬🇧       |
 
 ## Moving
 
