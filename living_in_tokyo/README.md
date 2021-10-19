@@ -16,11 +16,14 @@
 
 ## Moving
 
-- [Changing Jobs and Moving in Japan](https://jobsinjapan.com/blog/news/changing-jobs-moving-japan-podcast/) [podcast]
-- [Moving to Japan](https://tokyo-podcast.com/how-to-move-to-japan/) [podcast]
-- [apts.jp](https://apts.jp/) [agency website]
-- [The Process of Moving to japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/e11vi6f)
-- [Moving to Japan](https://www.reddit.com/r/japanlife/wiki/moving_in)
+| Title                                                                                                              | Type | Language |
+| ------------------------------------------------------------------------------------------------------------------ | ---- | -------- |
+| [Japanese Quality of Life: My Family's Experience in Tokyo](https://www.youtube.com/watch?v=oqh2F9Xeqx8)           | 🎥   | 🇬🇧       |
+| [Changing Jobs and Moving in Japan](https://jobsinjapan.com/blog/news/changing-jobs-moving-japan-podcast/)         | 🎧   | 🇬🇧       |
+| [Moving to Japan](https://tokyo-podcast.com/how-to-move-to-japan/)                                                 | 🎧   | 🇬🇧       |
+| [apts.jp](https://apts.jp/)                                                                                        | 📝   | 🇬🇧       |
+| [The Process of Moving to japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/e11vi6f) | 📝   | 🇬🇧       |
+| [Moving to Japan](https://www.reddit.com/r/japanlife/wiki/moving_in)                                               | 📝   | 🇬🇧       |
 
 ## Banking
 
