@@ -39,6 +39,7 @@
 | [Getting an Apartment](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/eotchn)                   | 🎧   | 🇬🇧       |
 | [How To Rent An Apartment In Tokyo](https://tokyo-podcast.com/renting-an-apartment-in-tokyo/)                             | 🎥   | 🇬🇧       |
 | [On Renting An Apartment In Tokyo](https://tokyo-podcast.com/renting-apartment-tokyo/)                                    | 🎥   | 🇬🇧       |
+| [Finding Your Home in Tokyo: Apartment](https://thetokyolife.jp/tokyo-apartment/)                                         | 📝   | 🇬🇧       |
 
 ## Visa
 
@@ -68,13 +69,16 @@
 
 | Title                                                                                         | Type | Language |
 | --------------------------------------------------------------------------------------------- | ---- | -------- |
-| [Cartão Pré-Pago no Japão, Pasmo, Manaca, Suica](https://www.youtube.com/watch?v=wU43rUbHwMs) | 🎧   | 🇬🇧       |
-
-## Internet
-
-WIP
+| [Cartão Pré-Pago no Japão, Pasmo, Manaca, Suica](https://www.youtube.com/watch?v=wU43rUbHwMs) | 🎥   | 🇧🇷       |
+| [Commuter Pass – Suica and PASMO](https://thetokyolife.jp/commuter-pass-suica-pasmo)          | 📝   | 🇬🇧       |
 
 ## Banking
+
+| Title                                                                            | Type | Language |
+| -------------------------------------------------------------------------------- | ---- | -------- |
+| [Getting a Japanese Bank Account](https://thetokyolife.jp/japanese-bank-account) | 📝   | 🇬🇧       |
+
+## Internet
 
 WIP
 
