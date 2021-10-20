@@ -84,6 +84,7 @@ WIP
 
 ## Resources
 
+- [The Tokyo Life](https://thetokyolife.jp/)
 - [Let's Explore Tokyo Podcast](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/)
 - [Tokyo Lens Podcast](https://anchor.fm/tokyolens)
 - [The Live Work Play Japan Podcast](https://www.liveworkplayjapan.com/podcast/)
