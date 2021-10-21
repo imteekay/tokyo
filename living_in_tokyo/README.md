@@ -1,5 +1,19 @@
 # Living in Tokyo
 
+## Table of Contents
+
+- [How's life in Japan](#how-s-life-in-japan)
+- [Moving](#moving)
+- [Housing](#housing)
+- [Visa](#visa)
+- [Work & Studies](#work---studies)
+- [Places to Eat & Drink](#places-to-eat---drink)
+- [Transportation](#transportation)
+- [Banking](#banking)
+- [Internet](#internet)
+- [Hospital](#hospital)
+- [Resources](#resources)
+
 ## How's life in Japan
 
 | Title                                                                                                                                  | Type | Language |
