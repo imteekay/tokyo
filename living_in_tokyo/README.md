@@ -1,5 +1,7 @@
 # Living in Tokyo
 
+A bunch of resources to help leaving in Tokyo, Japan.
+
 ## Table of Contents
 
 - [How's life in Japan](#how-s-life-in-japan)
