@@ -29,6 +29,8 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [What Is the Real Cost of Living in Tokyo?](https://japan-dev.com/blog/what_is_the_real_cost_of_living_in_tokyo)                       | 📝   | 🇬🇧       |
 | [Things I Wish I Knew Before Moving to Japan](https://www.youtube.com/watch?v=t1hXoP17FGI)                                             | 🎥   | 🇬🇧       |
 | [Living in Japan](https://www.reddit.com/r/japanlife/wiki/index#wiki_living_in_japan)                                                  | 📝   | 🇬🇧       |
+| [How it is After Just Moving to Japan](https://www.youtube.com/watch?v=_YAF65XtJ3o)                                                    | 🎥   | 🇬🇧       |
+| [The Suburbs of Tokyo](https://www.youtube.com/watch?v=aNEWe3TqPnI)                                                                    | 🎥   | 🇬🇧       |
 
 ## Moving
 
