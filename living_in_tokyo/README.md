@@ -42,6 +42,7 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [apts.jp](https://apts.jp/)                                                                                        | 📝   | 🇬🇧       |
 | [The Process of Moving to japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/e11vi6f) | 📝   | 🇬🇧       |
 | [Moving to Japan](https://www.reddit.com/r/japanlife/wiki/moving_in)                                               | 📝   | 🇬🇧       |
+| [MOVING TO JAPAN - things you should know before](https://www.youtube.com/watch?v=VvJZ3bv0cjo)                     | 📝   | 🇬🇧       |
 
 ## Housing
 
