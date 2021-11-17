@@ -43,6 +43,8 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [The Process of Moving to japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/e11vi6f) | 📝   | 🇬🇧       |
 | [Moving to Japan](https://www.reddit.com/r/japanlife/wiki/moving_in)                                               | 📝   | 🇬🇧       |
 | [MOVING TO JAPAN - things you should know before](https://www.youtube.com/watch?v=VvJZ3bv0cjo)                     | 📝   | 🇬🇧       |
+| [Cost of Living in Tokyo](https://ton.in.th/cost-of-living-in-tokyo-9644e4a2ea51)                                         | 📝   | 🇬🇧       |
+| [7 things I learnt in my first year living and working in Tokyo.](https://medium.com/@agkdesign/7-things-i-learnt-in-my-first-year-living-and-working-in-tokyo-98295bdfd3f7)                                         | 📝   | 🇬🇧       |
 
 ## Housing
 
@@ -59,7 +61,6 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [How To Rent An Apartment In Tokyo](https://tokyo-podcast.com/renting-an-apartment-in-tokyo/)                             | 🎥   | 🇬🇧       |
 | [On Renting An Apartment In Tokyo](https://tokyo-podcast.com/renting-apartment-tokyo/)                                    | 🎥   | 🇬🇧       |
 | [Finding Your Home in Tokyo: Apartment](https://thetokyolife.jp/tokyo-apartment/)                                         | 📝   | 🇬🇧       |
-| [Cost of Living in Tokyo](https://ton.in.th/cost-of-living-in-tokyo-9644e4a2ea51)                                         | 📝   | 🇬🇧       |
 
 ## Visa
 
