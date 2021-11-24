@@ -31,6 +31,7 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [Living in Japan](https://www.reddit.com/r/japanlife/wiki/index#wiki_living_in_japan)                                                  | 📝   | 🇬🇧       |
 | [How it is After Just Moving to Japan](https://www.youtube.com/watch?v=_YAF65XtJ3o)                                                    | 🎥   | 🇬🇧       |
 | [The Suburbs of Tokyo](https://www.youtube.com/watch?v=aNEWe3TqPnI)                                                                    | 🎥   | 🇬🇧       |
+| [Guidebook on Living and Working in Japan](https://github.com/leandrotk/tokyo/blob/master/living_in_tokyo/guidebook-on-living-and-working-japan.pdf)                                                                    | 📝   | 🇬🇧       |
 
 ## Moving
 
