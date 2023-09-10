@@ -24,3 +24,4 @@
 ## Mext
 
 - [Como consegui uma bolsa para estudar no Japão - MEXT Monbukagushou](https://www.youtube.com/watch?v=scb0AickKpo&ab_channel=MKM)
+- [Como escrever um projeto de pesquisa para a pós-graduação (bolsa MEXT e outros processos seletivos)](https://www.youtube.com/watch?v=IoOYGphP0zA&ab_channel=MKM)
