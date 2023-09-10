@@ -20,3 +20,7 @@
 - [International Graduate Program](https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp)
 - [Programming Research Group](https://prg.is.titech.ac.jp/people/how-to-join/)
 - [International Graduate Program](https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp-a)
+
+## Mext
+
+- [Como consegui uma bolsa para estudar no Japão - MEXT Monbukagushou](https://www.youtube.com/watch?v=scb0AickKpo&ab_channel=MKM)
