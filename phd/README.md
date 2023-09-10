@@ -27,3 +27,4 @@
 - [Como escrever um projeto de pesquisa para a pós-graduação (bolsa MEXT e outros processos seletivos)](https://www.youtube.com/watch?v=IoOYGphP0zA&ab_channel=MKM)
 - [Dicas de entrevista para bolsa MEXT pós graduação](https://www.youtube.com/watch?v=L_awvNiqvVo&ab_channel=MKM)
 - [Bolsa pós-graduação MEXT - Fui aprovado, e agora?](https://www.youtube.com/watch?v=eINeBwaXzqo&ab_channel=MKM)
+- [10 DÚVIDAS mais frequentes sobre o MEXT](https://www.youtube.com/watch?v=GG2QDUooOr0&ab_channel=BiaGo)
