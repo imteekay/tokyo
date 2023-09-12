@@ -13,6 +13,8 @@
 - [University of Tokyo Admissions](https://www.i.u-tokyo.ac.jp/edu/entra/entra_e.shtml)
 - [Laboratory for Computer Architecture and Systems](https://sites.google.com/view/casys/)
 - [Kobayashi Laboratory](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en)
+  - [Naoki Kobayashi, Professor, Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo](https://www-kb.is.s.u-tokyo.ac.jp/~koba)
+- [Ken Sakayori](https://kensakayori.github.io)
 
 ## Tokyo Institute of Technology
 
