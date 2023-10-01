@@ -28,6 +28,7 @@
 
 ## Shibaura Institute of Technology
 
+- [Electrical Engineering and Computer Science](https://www.shibaura-it.ac.jp/en/academics/graduate-school/eecs.html)
 - [Programming Language Research Group](https://www.shibaura-it.ac.jp/en/research/laboratory/00080.html)
   - [Isao Sasano](https://www.cs.ise.shibaura-it.ac.jp/~sasano)
 
