@@ -31,3 +31,7 @@
 - [Bolsa pós-graduação MEXT - Fui aprovado, e agora?](https://www.youtube.com/watch?v=eINeBwaXzqo&ab_channel=MKM)
 - [10 DÚVIDAS mais frequentes sobre o MEXT](https://www.youtube.com/watch?v=GG2QDUooOr0&ab_channel=BiaGo)
 - [Como estudar no japão de graça sem bolsa mext](https://www.youtube.com/watch?v=_4GAtcu46lo&ab_channel=Kotob%C3%A1Japon%C3%AAsFluente)
+
+## Research
+
+- [Hidehiko Masuhara — Tokyo Institute of Technology](https://prg.is.titech.ac.jp/people/masuhara)
