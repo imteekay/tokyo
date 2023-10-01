@@ -35,3 +35,4 @@
 ## Research
 
 - [Hidehiko Masuhara — Tokyo Institute of Technology](https://prg.is.titech.ac.jp/people/masuhara)
+- [Youyou Cong — Tokyo Institute of Technology](https://prg.is.titech.ac.jp/people/cong)
