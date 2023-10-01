@@ -26,6 +26,11 @@
   - [Hidehiko Masuhara — Tokyo Institute of Technology](https://prg.is.titech.ac.jp/people/masuhara)
   - [Youyou Cong — Tokyo Institute of Technology](https://prg.is.titech.ac.jp/people/cong)
 
+## Shibaura Institute of Technology
+
+- [Programming Language Research Group](https://www.shibaura-it.ac.jp/en/research/laboratory/00080.html)
+  - [Isao Sasano](https://www.cs.ise.shibaura-it.ac.jp/~sasano)
+
 ## Mext
 
 - [Como consegui uma bolsa para estudar no Japão - MEXT Monbukagushou](https://www.youtube.com/watch?v=scb0AickKpo&ab_channel=MKM)
