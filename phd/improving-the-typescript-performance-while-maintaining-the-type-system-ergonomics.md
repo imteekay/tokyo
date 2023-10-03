@@ -35,3 +35,4 @@
 - [Understanding TypeScript](https://users.soe.ucsc.edu/~abadi/Papers/FTS-submitted.pdf)
 - [Refining types using type guards in TypeScript](https://dl.acm.org/doi/10.1145/3018882.3018887)
 - [The gradualizer: a methodology and algorithm for generating gradual type systems](https://dl.acm.org/doi/10.1145/2837614.2837632)
+- [Provably Sound Typechecking of JavaScript](https://www.informatik.uni-marburg.de/~seba/teaching/thesis-bijman.pdf)
