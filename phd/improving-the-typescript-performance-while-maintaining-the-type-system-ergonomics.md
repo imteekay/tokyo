@@ -44,3 +44,4 @@
 - [A Spectrum of Type Soundness and Performance](https://dl.acm.org/doi/pdf/10.1145/3236766)
 - [ECMAScript - The journey of a programming language from an idea to a standard](https://arxiv.org/pdf/2305.01373.pdf)
 - [Concrete Types for TypeScript](https://fzn.fr/readings/ecoop15.pdf)
+- [Type Inference for Static Compilation of JavaScript](https://arxiv.org/pdf/1608.07261.pdf)
