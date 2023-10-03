@@ -47,3 +47,4 @@
 - [Type Inference for Static Compilation of JavaScript](https://arxiv.org/pdf/1608.07261.pdf)
 - [Refinement Types for TypeScript](https://arxiv.org/pdf/1604.02480.pdf)
 - [Safe & Efficient Gradual Typing for TypeScript](https://goto.ucsd.edu/~pvekris/docs/safets-tr.pdf)
+- [Fast and Precise Type Checking for JavaScript](https://dl.acm.org/doi/pdf/10.1145/3133872)
