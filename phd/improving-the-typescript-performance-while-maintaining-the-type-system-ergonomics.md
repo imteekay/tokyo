@@ -37,3 +37,4 @@
 - [The gradualizer: a methodology and algorithm for generating gradual type systems](https://dl.acm.org/doi/10.1145/2837614.2837632)
 - [Provably Sound Typechecking of JavaScript](https://www.informatik.uni-marburg.de/~seba/teaching/thesis-bijman.pdf)
 - [Certified Semantics and Analysis of JavaScript](https://theses.hal.science/tel-01478722/file/BODIN_Martin.pdf)
+- [Design and Evaluation of Contracts for Gradual Typing](https://era.ed.ac.uk/bitstream/handle/1842/36669/Williams2019.pdf?isAllowed=y&sequence=1)
