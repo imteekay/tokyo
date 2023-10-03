@@ -44,4 +44,5 @@
 
 ## Research Proposal
 
+- [Research Proposal](./research-proposal.md)
 - [How To Write A Strong Research Proposal](https://www.youtube.com/watch?v=Hp8eCzYYxbg&ab_channel=DrAminaYonis)
