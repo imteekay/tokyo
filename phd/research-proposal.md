@@ -35,3 +35,9 @@
   - How is this original? How does your work standout?
   - What are the new things you are bringing to the table?
   - e.g. we know this thing and I'm going to build this thing and this will support future work
+- Timeline
+  - How do you plan the years of research?
+  - e.g. preliminary studies, recruiting participants, running interviews, preparing questionnaires, analysis, reading interviews, etc
+- Bibliography
+  - 5 to 10 maximum literature
+  - What five papers I have to read to understand the field and understand your project
