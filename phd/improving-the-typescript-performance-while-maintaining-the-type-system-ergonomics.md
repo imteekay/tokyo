@@ -33,3 +33,4 @@
 ### Papers
 
 - [Understanding TypeScript](https://users.soe.ucsc.edu/~abadi/Papers/FTS-submitted.pdf)
+- [Refining types using type guards in TypeScript](https://dl.acm.org/doi/10.1145/3018882.3018887)
