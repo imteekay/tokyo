@@ -41,3 +41,4 @@
 - [Efficient Gradual Typing](https://arxiv.org/pdf/1802.06375.pdf)
 - [Type-Directed Operational Semantics for Gradual Typing](https://drops.dagstuhl.de/opus/volltexte/2021/14055/pdf/LIPIcs-ECOOP-2021-12.pdf)
 - [Gradual Typing: A New Perspective](https://dl.acm.org/doi/pdf/10.1145/3290329)
+- [A Spectrum of Type Soundness and Performance](https://dl.acm.org/doi/pdf/10.1145/3236766)
