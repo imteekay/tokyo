@@ -46,3 +46,4 @@
 - [Concrete Types for TypeScript](https://fzn.fr/readings/ecoop15.pdf)
 - [Type Inference for Static Compilation of JavaScript](https://arxiv.org/pdf/1608.07261.pdf)
 - [Refinement Types for TypeScript](https://arxiv.org/pdf/1604.02480.pdf)
+- [Safe & Efficient Gradual Typing for TypeScript](https://goto.ucsd.edu/~pvekris/docs/safets-tr.pdf)
