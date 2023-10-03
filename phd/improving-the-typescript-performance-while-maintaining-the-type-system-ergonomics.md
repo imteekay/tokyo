@@ -42,3 +42,4 @@
 - [Type-Directed Operational Semantics for Gradual Typing](https://drops.dagstuhl.de/opus/volltexte/2021/14055/pdf/LIPIcs-ECOOP-2021-12.pdf)
 - [Gradual Typing: A New Perspective](https://dl.acm.org/doi/pdf/10.1145/3290329)
 - [A Spectrum of Type Soundness and Performance](https://dl.acm.org/doi/pdf/10.1145/3236766)
+- [ECMAScript - The journey of a programming language from an idea to a standard](https://arxiv.org/pdf/2305.01373.pdf)
