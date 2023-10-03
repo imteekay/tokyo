@@ -39,3 +39,4 @@
 - [Certified Semantics and Analysis of JavaScript](https://theses.hal.science/tel-01478722/file/BODIN_Martin.pdf)
 - [Design and Evaluation of Contracts for Gradual Typing](https://era.ed.ac.uk/bitstream/handle/1842/36669/Williams2019.pdf?isAllowed=y&sequence=1)
 - [Efficient Gradual Typing](https://arxiv.org/pdf/1802.06375.pdf)
+- [Type-Directed Operational Semantics for Gradual Typing](https://drops.dagstuhl.de/opus/volltexte/2021/14055/pdf/LIPIcs-ECOOP-2021-12.pdf)
