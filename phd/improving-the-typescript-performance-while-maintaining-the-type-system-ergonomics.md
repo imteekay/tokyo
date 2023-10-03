@@ -38,3 +38,4 @@
 - [Provably Sound Typechecking of JavaScript](https://www.informatik.uni-marburg.de/~seba/teaching/thesis-bijman.pdf)
 - [Certified Semantics and Analysis of JavaScript](https://theses.hal.science/tel-01478722/file/BODIN_Martin.pdf)
 - [Design and Evaluation of Contracts for Gradual Typing](https://era.ed.ac.uk/bitstream/handle/1842/36669/Williams2019.pdf?isAllowed=y&sequence=1)
+- [Efficient Gradual Typing](https://arxiv.org/pdf/1802.06375.pdf)
