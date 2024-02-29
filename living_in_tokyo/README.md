@@ -125,4 +125,5 @@ WIP
 - [TokyoDev](tokyodev.com)
 - [Japan Life](https://www.reddit.com/r/japanlife/wiki/index)
 - [Everything Kat ate and drunk on her Tokyo trip](https://github.com/katmeister/tokyo-2019)
+- [Turning Japanese](https://www.turning-japanese.info)
 </samp>
