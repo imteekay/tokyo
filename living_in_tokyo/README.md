@@ -10,7 +10,7 @@ A bunch of resources to help leaving in Tokyo, Japan.
 - [Moving](#moving)
 - [Housing](#housing)
 - [Visa](#visa)
-- [Work & Studies](#work---studies)
+- [Work & Studies](#work--studies)
 - [Places to Eat & Drink](#places-to-eat---drink)
 - [Transportation](#transportation)
 - [Banking](#banking)
