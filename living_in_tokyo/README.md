@@ -83,6 +83,7 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [Getting a Job In Japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/eli1hb)                                              | 🎧   | 🇬🇧       |
 | [Getting Software Developer Salaries in Japan: The Ultimate Guide](https://japan-dev.com/blog/software-developer-salaries-in-japan-the-ultimate-guide) | 📝   | 🇬🇧       |
 | [How to find a job as a software developer in Japan](https://japan-dev.com/blog/how-to-find-a-job-as-a-software-developer-in-japan)                    | 📝   | 🇬🇧       |
+| [Reality of Working In Japan 🇯🇵](https://www.youtube.com/watch?v=Qp-8Pb4e_BA&ab_channel=seerasan)                                                      | 🎥   | 🇬🇧       |
 
 ## Places to Eat & Drink
 
