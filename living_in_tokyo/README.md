@@ -20,22 +20,22 @@ A bunch of resources to help leaving in Tokyo, Japan.
 
 ## How's life in Japan
 
-| Title                                                                                                                                                | Type | Language |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------- |
-| [Japanese Quality of Life: My Family's Experience in Tokyo](https://www.youtube.com/watch?v=oqh2F9Xeqx8)                                             | 🎥   | 🇬🇧       |
-| [Let's explore Tokyo trains](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/let-s-explore-tokyo-trains/)                                 | 🎧   | 🇬🇧       |
-| [7 Random Tips for Living in Tokyo](https://tokyo-podcast.com/2019/01/27/random-tips-for-living-in-tokyo/)                                           | 🎧   | 🇬🇧       |
-| [Cost of living in Tokyo](https://www.youtube.com/watch?v=GbrLob9YUPE&ab_channel=costoflivingin)                                                     | 🎥   | 🇬🇧       |
-| [Living in Japan](https://www.youtube.com/watch?v=DO58nQzU4Lc&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113&ab_channel=Hey%2CJu%21Listen%21)               | 🎥   | 🇬🇧       |
-| [The Cost of living in japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/epho58)                                       | 🎧   | 🇬🇧       |
-| [What Is the Real Cost of Living in Tokyo?](https://japan-dev.com/blog/what_is_the_real_cost_of_living_in_tokyo)                                     | 📝   | 🇬🇧       |
-| [Things I Wish I Knew Before Moving to Japan](https://www.youtube.com/watch?v=t1hXoP17FGI)                                                           | 🎥   | 🇬🇧       |
-| [Living in Japan](https://www.reddit.com/r/japanlife/wiki/index#wiki_living_in_japan)                                                                | 📝   | 🇬🇧       |
-| [How it is After Just Moving to Japan](https://www.youtube.com/watch?v=_YAF65XtJ3o)                                                                  | 🎥   | 🇬🇧       |
-| [The Suburbs of Tokyo](https://www.youtube.com/watch?v=aNEWe3TqPnI)                                                                                  | 🎥   | 🇬🇧       |
-| [Guidebook on Living and Working in Japan](https://github.com/leandrotk/tokyo/blob/master/living_in_tokyo/guidebook-on-living-and-working-japan.pdf) | 📝   | 🇬🇧       |
-| [21 THINGS ABOUT JAPAN to Know Before Moving](https://www.youtube.com/watch?v=n-2GNmH_eiU&ab_channel=AllisoninTokyo)                                 | 🎥   | 🇬🇧       |
-| [My advice on living in Japan]([https://www.youtube.com/watch?v=n-2GNmH_eiU&ab_channel=AllisoninTokyo](https://www.youtube.com/watch?v=AsMq4wlLzT0)) | 🎥   | 🇬🇧       |
+| Title                                                                                                                                                  | Type | Language |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | -------- |
+| [Japanese Quality of Life: My Family's Experience in Tokyo](https://www.youtube.com/watch?v=oqh2F9Xeqx8)                                               | 🎥   | 🇬🇧       |
+| [Let's explore Tokyo trains](https://podtail.com/en/podcast/let-s-explore-tokyo-podcast/let-s-explore-tokyo-trains/)                                   | 🎧   | 🇬🇧       |
+| [7 Random Tips for Living in Tokyo](https://tokyo-podcast.com/2019/01/27/random-tips-for-living-in-tokyo/)                                             | 🎧   | 🇬🇧       |
+| [Cost of living in Tokyo](https://www.youtube.com/watch?v=GbrLob9YUPE&ab_channel=costoflivingin)                                                       | 🎥   | 🇬🇧       |
+| [Living in Japan](https://www.youtube.com/watch?v=DO58nQzU4Lc&list=PLPzW9wf0QVQ-UBLhgTyZMBLyd26ocw113&ab_channel=Hey%2CJu%21Listen%21)                 | 🎥   | 🇬🇧       |
+| [The Cost of living in japan](https://www.tokyoadventures.com/podcast/https/anchorfm/dashboard/episode/epho58)                                         | 🎧   | 🇬🇧       |
+| [What Is the Real Cost of Living in Tokyo?](https://japan-dev.com/blog/what_is_the_real_cost_of_living_in_tokyo)                                       | 📝   | 🇬🇧       |
+| [Things I Wish I Knew Before Moving to Japan](https://www.youtube.com/watch?v=t1hXoP17FGI)                                                             | 🎥   | 🇬🇧       |
+| [Living in Japan](https://www.reddit.com/r/japanlife/wiki/index#wiki_living_in_japan)                                                                  | 📝   | 🇬🇧       |
+| [How it is After Just Moving to Japan](https://www.youtube.com/watch?v=_YAF65XtJ3o)                                                                    | 🎥   | 🇬🇧       |
+| [The Suburbs of Tokyo](https://www.youtube.com/watch?v=aNEWe3TqPnI)                                                                                    | 🎥   | 🇬🇧       |
+| [Guidebook on Living and Working in Japan](https://github.com/leandrotk/tokyo/blob/master/living_in_tokyo/guidebook-on-living-and-working-japan.pdf)   | 📝   | 🇬🇧       |
+| [21 THINGS ABOUT JAPAN to Know Before Moving](https://www.youtube.com/watch?v=n-2GNmH_eiU&ab_channel=AllisoninTokyo)                                   | 🎥   | 🇬🇧       |
+| [My advice on living in Japan](<[https://www.youtube.com/watch?v=n-2GNmH_eiU&ab_channel=AllisoninTokyo](https://www.youtube.com/watch?v=AsMq4wlLzT0)>) | 🎥   | 🇬🇧       |
 
 ## Moving
 
@@ -99,6 +99,7 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | --------------------------------------------------------------------------------------------- | ---- | -------- |
 | [Cartão Pré-Pago no Japão, Pasmo, Manaca, Suica](https://www.youtube.com/watch?v=wU43rUbHwMs) | 🎥   | 🇧🇷       |
 | [Commuter Pass – Suica and PASMO](https://thetokyolife.jp/commuter-pass-suica-pasmo)          | 📝   | 🇬🇧       |
+| [Tokyo's Train System, EXPLAINED](https://www.youtube.com/watch?v=2Abrpfj3Aa4)                | 🎥   | 🇬🇧       |
 
 ## Banking
 
