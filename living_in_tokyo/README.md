@@ -36,6 +36,7 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [Guidebook on Living and Working in Japan](https://github.com/leandrotk/tokyo/blob/master/living_in_tokyo/guidebook-on-living-and-working-japan.pdf)   | 📝   | 🇬🇧       |
 | [21 THINGS ABOUT JAPAN to Know Before Moving](https://www.youtube.com/watch?v=n-2GNmH_eiU&ab_channel=AllisoninTokyo)                                   | 🎥   | 🇬🇧       |
 | [My advice on living in Japan](<[https://www.youtube.com/watch?v=n-2GNmH_eiU&ab_channel=AllisoninTokyo](https://www.youtube.com/watch?v=AsMq4wlLzT0)>) | 🎥   | 🇬🇧       |
+| [Guesstimating Your Lifestyle in Japan](https://www.tokyodev.com/articles/guesstimating-your-lifestyle-in-japan)                                       | 🎥   | 🇬🇧       |
 
 ## Moving
 
