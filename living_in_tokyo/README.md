@@ -67,6 +67,7 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [How To Rent An Apartment In Tokyo](https://tokyo-podcast.com/renting-an-apartment-in-tokyo/)                             | 🎥   | 🇬🇧       |
 | [On Renting An Apartment In Tokyo](https://tokyo-podcast.com/renting-apartment-tokyo/)                                    | 🎥   | 🇬🇧       |
 | [Finding Your Home in Tokyo: Apartment](https://thetokyolife.jp/tokyo-apartment/)                                         | 📝   | 🇬🇧       |
+| [Finding an Apartment in Japan](https://www.tokyodev.com/articles/finding-an-apartment-in-japan)                          | 📝   | 🇬🇧       |
 
 ## Visa
 
