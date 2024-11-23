@@ -77,7 +77,7 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [How to apply for Permanent Residency of Japan](https://paipo-tang.medium.com/how-to-apply-for-permanent-residency-of-japan-89f850bff7b5)                                                                         | 📝   | 🇬🇧       |
 | [Visas for Software Engineers in Japan](https://www.tokyodev.com/2020/03/02/japanese-engineering-visa-options)                                                                                                    | 📝   | 🇬🇧       |
 | [Getting a Visa as an Engineer in Japan](https://japan-dev.com/blog/getting-a-visa-as-an-engineer-in-japan)                                                                                                       | 📝   | 🇬🇧       |
-| [All About Working Visas for Hiring Foreigners Full-time in Japan](<[https://japan-dev.com/blog/getting-a-visa-as-an-engineer-in-japan](https://www.tokyodev.com/articles/visas-for-hiring-foreigners-in-japan)>) | 📝   | 🇬🇧       |
+| [All About Working Visas for Hiring Foreigners Full-time in Japan](https://japan-dev.com/blog/getting-a-visa-as-an-engineer-in-japan) | 📝   | 🇬🇧       |
 
 ## Work & Studies
 
