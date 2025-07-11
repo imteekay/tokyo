@@ -6,17 +6,19 @@ A bunch of resources to help leaving in Tokyo, Japan.
 
 ## Table of Contents
 
-- [How's life in Japan](#how-s-life-in-japan)
-- [Moving](#moving)
-- [Housing](#housing)
-- [Visa](#visa)
-- [Work & Studies](#work--studies)
-- [Places to Eat & Drink](#places-to-eat--drink)
-- [Transportation](#transportation)
-- [Banking](#banking)
-- [Internet](#internet)
-- [Hospital](#hospital)
-- [Resources](#resources)
+- [Living in Tokyo](#living-in-tokyo)
+  - [Table of Contents](#table-of-contents)
+  - [How's life in Japan](#hows-life-in-japan)
+  - [Moving](#moving)
+  - [Housing](#housing)
+  - [Visa](#visa)
+  - [Work \& Studies](#work--studies)
+  - [Places to Eat \& Drink](#places-to-eat--drink)
+  - [Transportation](#transportation)
+  - [Banking](#banking)
+  - [Internet](#internet)
+  - [Hospital](#hospital)
+  - [Resources](#resources)
 
 ## How's life in Japan
 
@@ -78,6 +80,7 @@ A bunch of resources to help leaving in Tokyo, Japan.
 | [Visas for Software Engineers in Japan](https://www.tokyodev.com/2020/03/02/japanese-engineering-visa-options)                                                                                                    | 📝   | 🇬🇧       |
 | [Getting a Visa as an Engineer in Japan](https://japan-dev.com/blog/getting-a-visa-as-an-engineer-in-japan)                                                                                                       | 📝   | 🇬🇧       |
 | [All About Working Visas for Hiring Foreigners Full-time in Japan](https://japan-dev.com/blog/getting-a-visa-as-an-engineer-in-japan) | 📝   | 🇬🇧       |
+| [Guide to permanent residency (PR) In Japan](https://github.com/vincent-mailhol/permanent-residency-in-japan/blob/main/permanent-residency-in-japan.md) | 📝   | 🇬🇧       |
 
 ## Work & Studies
 
